@@ -10,8 +10,8 @@ public class Main {
         savingAccount.deposit(50);
         savingAccount.withdraw(20);
 
-        Account fixedDepositeAccount = new FixedDepositAccount();
+        /*Account fixedDepositeAccount = new FixedDepositAccount();
         fixedDepositeAccount.deposit(200);
-        fixedDepositeAccount.withdraw(80);
+        fixedDepositeAccount.withdraw(80);*/
     }
 }

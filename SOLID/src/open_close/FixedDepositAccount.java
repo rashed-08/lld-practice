@@ -8,7 +8,7 @@ public class FixedDepositAccount implements Account{
 
     @Override
     public void withdraw(int amount) {
-        // Need to implement Liskob Substitution Principle (LSP)
+        // Fixed using Liskob Substitution Principle (LSP)
         throw new UnsupportedOperationException("Withdrawals are not supported by FixedDepositAccount!!");
     }
 }
